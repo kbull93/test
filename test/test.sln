@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{E5FB3A01-BB6D-44A6-91BC-AFE3D8A8B4CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A1DF7AD8-0E03-4604-8EEE-4300FB6B70F1}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FB3A01-BB6D-44A6-91BC-AFE3D8A8B4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FB3A01-BB6D-44A6-91BC-AFE3D8A8B4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FB3A01-BB6D-44A6-91BC-AFE3D8A8B4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FB3A01-BB6D-44A6-91BC-AFE3D8A8B4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
